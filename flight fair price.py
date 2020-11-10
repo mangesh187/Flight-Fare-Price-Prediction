@@ -843,11 +843,7 @@ output.to_csv('Mangesh_flight_f.csv',index=False)
 
 output.shape
 
-
 # In[93]:
-
-
-# cv_results = cross_val_score(model, df_X, df_y, cv=kfold, scoring='neg_root_mean_squared_error')
 
 
 # In[ ]:
