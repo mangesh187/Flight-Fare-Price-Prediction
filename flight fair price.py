@@ -279,12 +279,6 @@ test['weekday'] = test['weekday'].astype(object)
 train.head(2)
 
 
-# In[ ]:
-
-
-
-
-
 # In[34]:
 
 
@@ -616,12 +610,6 @@ test_categorical_data.head()
 
 print(train_categorical_data.shape)
 print(test_categorical_data.shape)
-
-
-# In[ ]:
-
-
-
 
 
 # In[68]:
