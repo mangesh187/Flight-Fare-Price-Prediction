@@ -780,11 +780,6 @@ model = RandomizedSearchCV(XGBRegressor(),
 
 # In[85]:
 
-
-# from sklearn.tree import DecisionTreeRegressor
-# model = DecisionTreeRegressor()
-
-
 # In[86]:
 
 
@@ -794,11 +789,6 @@ model.fit(X,y)
 # In[87]:
 
 
-# from sklearn.ensemble import RandomForestRegressor
-# from sk
-# # model1 = XGBRegressor( max_depth = 50, 
-# #                 learning_rate = 0.01,
-# #                 n_estimators = 1000,
 # #                 reg_lambda = 0.01,
 # #                 n_iter = 20,
 # #                 scoring = 'neg_mean_squared_error',
