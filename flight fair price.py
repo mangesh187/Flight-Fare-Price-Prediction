@@ -789,11 +789,6 @@ model.fit(X,y)
 # In[87]:
 
 
-# #                 reg_lambda = 0.01,
-# #                 n_iter = 20,
-# #                 scoring = 'neg_mean_squared_error',
-# #                 cv = 5, n_jobs=-1
-# #                )
 # model1 = RandomForestRegressor()
 # # model = Extreme Gradient Boosting()
 # model1.fit(X_train, y_train)
