@@ -792,9 +792,6 @@ model.fit(X,y)
 # model1 = RandomForestRegressor()
 # # model = Extreme Gradient Boosting()
 # model1.fit(X_train, y_train)
-# y_pred = model1.predict(X_test)
-# y_pred = model1.predict(X_test)
-# print('RMSE : ',np.sqrt(mse(y_test, y_pred)))
 
 
 # In[88]:
