@@ -809,13 +809,16 @@ y_pred = model.predict(test_df)
 
 
 output = pd.DataFrame(data={"Price":y_pred})
+
+output.shape
+
 output.to_csv('Mangesh_flight_f.csv',index=False)
 
 
 # In[92]:
 
 
-output.shape
+
 
 # In[93]:
 
