@@ -820,6 +820,3 @@ output.to_csv('Mangesh_flight_f.csv',index=False)
 
 # In[ ]:
 
-
-
-
