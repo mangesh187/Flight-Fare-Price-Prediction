@@ -551,7 +551,7 @@ print(test_categorical_data.shape)
 # In[61]:
 
 
-categorical_data
+categorical_data.head()
 
 
 # In[62]:
