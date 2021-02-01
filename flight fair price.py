@@ -806,6 +806,3 @@ output = pd.DataFrame(data={"Price":y_pred})
 output.shape
 
 output.to_csv('Mangesh_flight_f.csv',index=False)
-
-
-# In[92]:
