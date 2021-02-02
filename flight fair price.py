@@ -133,7 +133,6 @@ test['Duration'] = test['Duration'].apply(duration)
 
 # In[16]:
 
-
 # from datetime import timedelta
 # for h in train['Duration']:
 # #     h = 
